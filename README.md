@@ -1,1 +1,1 @@
-This code calculates the RREF of a matrix. 
+Scratch Implementation of code to calculates the RREF of a matrix. 
